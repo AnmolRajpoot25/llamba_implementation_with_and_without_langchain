@@ -12,8 +12,11 @@ The project focuses on:
 
 ## 📂 Repository Structure
 ├── llama_implementation_using_langchain.ipynb
+
 ├── llamba_qunatized_llm_model.ipynb
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -69,7 +72,7 @@ The project focuses on:
 #### ⚡ Quantized Models
 **Why Quantization?**
 - Lower RAM and VRAM usage
-- Enables local inference without GPUs
+- Enables local inference with lower GPUs
 - Faster inference with minimal accuracy loss
 
 ---
